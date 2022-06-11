@@ -4,3 +4,4 @@ I am oxoovo and I'm working on PyQt5 projects<img src="https://user-images.githu
 [![Oxoovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxoovo&show_icons=true&theme=algolia)](https://github.com/oxoovo)
 <br><br><br>
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxoovo&layout=compact&theme=algolia)](https://github.com/oxoovo)-->
+![SNAKE](https://raw.githubusercontent.com/oxoovo/oxoovo/output/github-contribution-grid-snake.svg)
