@@ -7,8 +7,8 @@ issue_author2 = issue.user.login
 issue_author = '@' + issue.user.login
 repo_owner = '@' + os.environ['REPOSITORY_OWNER']
 issue.create_comment("Thank you for adding your name, " + issue_author2 + " 😀")
-issue.close()
+issue.edit(state="closed")
 
 a = open("README.md", "a")
-a.write("* " + issue_author)
+a.write("* " + issue_author2)
 a.close()
