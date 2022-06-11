@@ -6,7 +6,7 @@ issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
 issue_author2 = issue.user.login
 issue_author = '@' + issue.user.login
 repo_owner = '@' + os.environ['REPOSITORY_OWNER']
-issue.create_comment("Thank you for adding your name, " + issue_author2 " 😀")
+issue.create_comment("Thank you for adding your name, " + issue_author2 + " 😀")
 
 a = open("README.md", "a")
 a.write("* " + issue_author)
