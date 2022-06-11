@@ -8,6 +8,6 @@
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxoovo&layout=compact&theme=algolia)](https://github.com/oxoovo)-->
 ![SNAKE](https://raw.githubusercontent.com/oxoovo/oxoovo/output/github-contribution-grid-snake.svg)
 # 𝕍𝕀𝕊𝕀𝕋𝕆ℝ 𝕃𝕀𝕊𝕋
-[Add your Username](https://github.com/oxoovo/oxoovo/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=ADD_USER)
+[Add your name](https://github.com/oxoovo/oxoovo/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=ADD_USER)
 ***
 * oxoovo
