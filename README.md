@@ -11,4 +11,3 @@
 [Add your name](https://github.com/oxoovo/oxoovo/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=ADD_USER)
 ***
 * oxoovo
-* oxoovo
