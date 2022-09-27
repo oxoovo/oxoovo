@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/oxoovo/oxoovo/main/img/PyQt.svg" alt="PyQt Logo" width="500"/>
 <a href="https://github.com/oxoovo/Password-Safe"><img src="https://raw.githubusercontent.com/oxoovo/Password-Safe/main/icons/logo.svg" alt="Password-Safe Logo" width="300"/></a>
 <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=oxoovo&label=Profile%20views&color=00ccff&style=flat-square"/>
+<br><br><br>
 [![Oxoovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxoovo&show_icons=true&theme=algolia)](https://github.com/oxoovo)
 <br><br><br>
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxoovo&layout=compact&theme=algolia)](https://github.com/oxoovo)-->
