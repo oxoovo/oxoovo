@@ -2,7 +2,7 @@
 <br><br><br>
 <img src="https://raw.githubusercontent.com/oxoovo/oxoovo/main/img/python.svg" width="700">
 <img src="https://raw.githubusercontent.com/oxoovo/oxoovo/main/img/PyQt.svg" alt="PyQt Logo" width="500"/>
-<a href="https://github.com/oxoovo/Password-Safe"><img src="https://raw.githubusercontent.com/oxoovo/Password-Safe/main/icons/logo.svg" alt="Password-Safe Logo" width="300"/></a>
+<a href="https://github.com/oxoovo/Password-Safe"><img src="https://raw.githubusercontent.com/oxoovo/Password-Safe/main/icons/Download-logo.svg" alt="Password-Safe Logo" width="300"/></a>
 <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=oxoovo&label=Profile%20views&color=00ccff&style=flat-square"/>
 <br><br><br>
