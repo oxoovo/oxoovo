@@ -10,5 +10,5 @@ issue.create_comment("Thank you for adding your name, " + issue_author2 + " 😀
 issue.edit(state="closed")
 
 a = open("README.md", "a")
-a.write("/n* " + issue_author2)
+a.write("\n* " + issue_author2)
 a.close()
