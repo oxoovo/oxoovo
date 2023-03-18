@@ -12,5 +12,5 @@ issue.edit(state="closed")
 with open("README.md", "r") as f:
     content = f.read()
   
-with open("README.md", "a") as f:
+with open("README.md", "w") as f:
     f.write(content + "\n* " + issue_author2)
