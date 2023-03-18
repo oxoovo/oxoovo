@@ -19,6 +19,3 @@
 * Rose-X
 * oxoovo
 * oxoovo
-
-* oxoovo
-* oxoovo
